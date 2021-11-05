@@ -3,7 +3,7 @@
 
 int main()
 {
- printf("Assalamualaikum positive people :)");
+ printf("Assalamualaikum and hello positive people :)");
 
  return 0;
 }
